@@ -1,0 +1,8 @@
+{
+  "name": "Little-Boxes",
+  "short_name": "LittleBoxes ",
+  "lang": "en-US",
+  "start_url": "/http://localhost:8080/",
+  "display": "standalone",
+  "command": "sh ./start.sh"
+}
